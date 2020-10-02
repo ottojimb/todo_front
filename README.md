@@ -38,3 +38,5 @@ docker build . -t my-app
 Now you can access to [localhost:8080](0.0.0.0:8080)
 
 For a preview of this application, you can view it [in this youtube link](https://www.youtube.com/watch?v=5b0gjOmoGkc)
+
+To get the backend: [click here](https://github.com/ottojimb/todo_back/)
